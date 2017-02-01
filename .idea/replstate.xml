@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ReplState" timestamp="1485966677586">{:repl-history {:ide [], :local [&quot;(doc sluprp)&quot; &quot;(doc slurp)&quot; &quot;(doc clojure.string/split-lines)&quot; &quot;(doc function)&quot; &quot;#\&quot;pants\&quot;&quot; &quot;(doc read-line)&quot; &quot;(doc pr-str)&quot; &quot;(doc spit)&quot; &quot;(doc atom)&quot; &quot;(doc j/run-jetty)&quot; &quot;(-main)&quot;], :remote []}}</component>
+</project>
